@@ -63,6 +63,7 @@ class Content
     public Content(string content)
     {
         this.content = content;
+
     }
     public void Show()
     {
